@@ -1,5 +1,5 @@
 # Octopusal Networks
 
-- Description: [OctopusalNetworks.ipynb](https://github.com/marconunnari/octopusal_networks/blob/master/OctopusalNetworks.ipynb)
+- Description: [OctopusalNetworks.ipynb](https://nbviewer.jupyter.org/github/marconunnari/octopusal_networks/blob/master/OctopusalNetworks.ipynb)
 
-- Pattern generator: [PatternGenerator.ipynb](https://github.com/marconunnari/octopusal_networks/blob/master/PatternGenerator.ipynb)
+- Pattern generator: [PatternGenerator.ipynb](https://nbviewer.jupyter.org/github/marconunnari/octopusal_networks/blob/master/PatternGenerator.ipynb)
