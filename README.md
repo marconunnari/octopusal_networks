@@ -1,9 +1,7 @@
 # Octopusal Networks
 
-- Introduction: [OctopusalNetworks.ipynb](https://nbviewer.jupyter.org/github/marconunnari/octopusal_networks/blob/master/OctopusalNetworks.ipynb)
+An interpretiation in Python of the model of the mind described by [Dr. Edward De Bono](https://en.wikipedia.org/wiki/Edward_de_Bono) in the books "The mechanism of mind" and "I'm Right, You Are Wrong".
 
-- MNIST: [Mnist.ipynb](https://nbviewer.jupyter.org/github/marconunnari/octopusal_networks/blob/master/Mnist.ipynb)
+Read the article at https://deepnote.com/@marcos-space/Octopusal-Networks-7c2c8cac-ce2d-41f8-bed5-5117a975e7cf
 
-- MNIST with vectorization: [MnistVectorized.ipynb](https://nbviewer.jupyter.org/github/marconunnari/octopusal_networks/blob/master/MnistVectorized.ipynb)
-
-- Pattern generator: [PatternGenerator.ipynb](https://nbviewer.jupyter.org/github/marconunnari/octopusal_networks/blob/master/PatternGenerator.ipynb)
+![Screenshot](https://user-images.githubusercontent.com/12419038/169410180-78d01bb7-db03-48eb-9f16-b4edb1047581.png)
